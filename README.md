@@ -1,3 +1,5 @@
+Optical pulse broadening caused by dispersive elements, e.g. optical filers or optical fiber.
+
 # optical_pulse_broadening_optical_filter.ipynb
 
 ![Image](https://github.com/user-attachments/assets/6c416500-b30c-41d7-82e0-96c02808e04f)
