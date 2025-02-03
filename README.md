@@ -1,7 +1,7 @@
 Optical pulse broadening caused by dispersive elements, e.g. optical filers or optical fiber.
 
 # optical_pulse_broadening_optical_filter.ipynb
-(https://github.com/tacticstactics/Optical-pulse-broadening/blob/9fda7b8744bb1f8f5890dfdb23fe4925a596eed4/optical_pulse_broadening_optical_fibers.ipynb)
+(https://github.com/tacticstactics/Optical-pulse-broadening/blob/9fda7b8744bb1f8f5890dfdb23fe4925a596eed4/optical_pulse_broadening_optical_fibers.ipynb)<br>
 The optical filter is an Infinite Impulse Response (IIR) composed of a dielectric coating.
 The transmitted light and the reflected light are subjected to phase difference, which causes the light pulse to be deformed.
 ![Image](https://github.com/user-attachments/assets/6c416500-b30c-41d7-82e0-96c02808e04f)
