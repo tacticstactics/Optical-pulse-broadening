@@ -1,4 +1,4 @@
-Optical pulse broadening caused by dispersive elements, e.g. optical filers or optical fiber.
+Optical pulses are subject to distortion and stretching as they pass through optical filters and optical fibers over long distances.
 
 # optical_pulse_broadening_optical_filter.ipynb
 (https://github.com/tacticstactics/Optical-pulse-broadening/blob/4f1e0422b0de5515737d8783b0ee29195dfa3780/optical_pulse_broadening_optical_filter.ipynb)
